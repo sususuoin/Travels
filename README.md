@@ -26,9 +26,11 @@
 <br>
 
 ## 개발 언어 및 환경 
+
   > JAVA / Servlet/jsp /  Ajax /  HTML5/CSS3 /  Javascript / 
   > 
   > Spring /  mybatis /  BootStrap5 /  Git
+
 
 
 <br>
