@@ -25,11 +25,25 @@
 
 <br>
 
-## 개발 언어 및 환경 
+## 개발환경
 
-  > JAVA / Servlet/jsp /  Ajax /  HTML5/CSS3 /  Javascript / 
-  > 
-  > Spring /  mybatis /  BootStrap5 /  Git
+### Server
+* Apache Tomcat
+
+### IDE
+* STS
+* SQL Developer
+
+### Language
+* JAVA 
+* Javascript
+* HTML5/CSS3
+
+
+### DataBase
+* Oracle
+
+
 
 
 
