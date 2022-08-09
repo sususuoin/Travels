@@ -14,14 +14,16 @@
 
 <br>
 
-## 담당 기능
+## 주요 업무
 
 <img src="https://user-images.githubusercontent.com/64256411/183465218-6465c5dd-4d64-4d00-b762-0c5fc340f449.png" width="150" height="270">   <img src="https://user-images.githubusercontent.com/64256411/183466029-9a6f36be-dc83-493a-b0f3-21c42014721e.png" width="150" height="270">   <img src="https://user-images.githubusercontent.com/64256411/183466251-f8a32a06-44f3-4764-b048-597cc230c04e.png" width="150" height="270">   <img src="https://user-images.githubusercontent.com/64256411/183467496-7e4aec38-2a0d-4b84-8c52-5bfa2b28290e.png" width="150" height="270"> 
 
 * 데이터 모델링
-* 여행 코스 페이지
+* 여행 코스 페이지 (
+  >코스 등록, 좋아요, 스크랩, 수정, 삭제
 * 마이페이지 
   >정보 수정, 좋아요 및 스크랩 리스트, 예약 내역, 파트너 신청, 내가 쓴 게시물
+  
 
 <br>
 
